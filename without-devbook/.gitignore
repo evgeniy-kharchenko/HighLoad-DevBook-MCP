@@ -1,0 +1,10 @@
+# SQLite transaction files
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Temporary uv locks (keep uv.lock versioned)
+uv-*.lock
