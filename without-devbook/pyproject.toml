@@ -1,0 +1,10 @@
+[project]
+name = "gitlab-project-registry"
+version = "0.1.0"
+description = "SQLite-backed registry for GitLab projects"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
